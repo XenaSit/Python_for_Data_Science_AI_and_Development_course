@@ -35,4 +35,4 @@ In the reverse example, when 2 X 4 matrix is multiplied with the 4 X 2 one, the 
 Note: Dot product of a row vector with a column vector, with the same number of elements, would return a single scalar value. Dot product of a column vector with a row vector, will return a 2D matrix.
 
 # Author: 
-Abhishek Gagneja
+Abhishek Gagneja length
